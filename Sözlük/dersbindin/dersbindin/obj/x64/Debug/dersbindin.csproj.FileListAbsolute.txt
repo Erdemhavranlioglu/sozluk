@@ -1,0 +1,11 @@
+C:\Users\İbrahim Erdem\Source\Repos\dersbindin\dersbindin\bin\x64\Debug\dersbindin.exe.config
+C:\Users\İbrahim Erdem\Source\Repos\dersbindin\dersbindin\bin\x64\Debug\dersbindin.exe
+C:\Users\İbrahim Erdem\Source\Repos\dersbindin\dersbindin\bin\x64\Debug\dersbindin.pdb
+C:\Users\İbrahim Erdem\Source\Repos\dersbindin\dersbindin\obj\x64\Debug\dersbindin.Form1.resources
+C:\Users\İbrahim Erdem\Source\Repos\dersbindin\dersbindin\obj\x64\Debug\dersbindin.Form2.resources
+C:\Users\İbrahim Erdem\Source\Repos\dersbindin\dersbindin\obj\x64\Debug\dersbindin.Properties.Resources.resources
+C:\Users\İbrahim Erdem\Source\Repos\dersbindin\dersbindin\obj\x64\Debug\dersbindin.csproj.GenerateResource.cache
+C:\Users\İbrahim Erdem\Source\Repos\dersbindin\dersbindin\obj\x64\Debug\dersbindin.csproj.CoreCompileInputs.cache
+C:\Users\İbrahim Erdem\Source\Repos\dersbindin\dersbindin\obj\x64\Debug\dersbindin.exe
+C:\Users\İbrahim Erdem\Source\Repos\dersbindin\dersbindin\obj\x64\Debug\dersbindin.pdb
+C:\Users\İbrahim Erdem\Source\Repos\dersbindin\dersbindin\obj\x64\Debug\dersbindin.csproj.AssemblyReference.cache
